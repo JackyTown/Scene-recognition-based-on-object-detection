@@ -1,5 +1,5 @@
 # Files
-folders:
+folders:  
 src: 网络各层的代码  
 obj: 各层网络编译后生成的目标文件  
 example: 完整的网络实例代码   
